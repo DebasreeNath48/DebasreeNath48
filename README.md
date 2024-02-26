@@ -2,8 +2,6 @@
 
 <img align="center" alt="coding" src="https://github.com/DebasreeNath48/DebasreeNath48/blob/main/girl_coding.gif"/>
 
-🌱 I’m currently learning **Keras, TensorFlow and PyTorch**
-
 💻 Highly interested in **Full Stack Web Development**
 
 💬 Ask me about **C, C++, Java and Python**
